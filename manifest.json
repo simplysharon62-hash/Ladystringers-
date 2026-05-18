@@ -1,0 +1,16 @@
+{
+  "name": "Lady Stringers",
+  "short_name": "LadyStringers",
+  "description": "Lady Stringers App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://base44.com/logo_v2.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
