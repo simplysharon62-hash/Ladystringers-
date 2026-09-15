@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var subscribeUrl = "https://assets.mailerlite.com/jsonp/2619900/forms/197952917910586651/subscribe";
+  var subscribeUrl = "https://assets.mailerlite.com/jsonp/2619900/forms/198637427657540637/subscribe";
   var activeRequest = null;
   var emailPattern = /^([a-zA-Z0-9_.+-])+@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]){2,40}$/;
 
