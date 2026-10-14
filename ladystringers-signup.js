@@ -90,7 +90,7 @@
     form.hidden = true;
 
     var accessLink = document.createElement("a");
-    accessLink.href = request.pdfUrl;
+    accessLink.href = /(?:Awakening|fc87c3cdf)/i.test(request.pdfUrl) ? "/Journal" : request.pdfUrl;
     accessLink.target = "_blank";
     accessLink.rel = "noopener noreferrer";
     accessLink.textContent = "Open Journal";
